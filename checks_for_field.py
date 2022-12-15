@@ -6,7 +6,7 @@ from pywinauto import keyboard
 def input_field_check(collection):
     '''this function allows you to check what error is caused by entering a certain amount of a certain character in the input field'''
 
-    app = Application().start(cmd_line=u'"C:\\Users\\User\\Desktop\\TestQA1.exe" ')
+    app = Application().start(cmd_line=u'"TestQA1.exe" ')
     main_window = app.TForm1
     main_window.wait('ready')
 

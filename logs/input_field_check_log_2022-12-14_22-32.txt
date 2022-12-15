@@ -1,0 +1,11 @@
+Testing input field with 123456789 collection
+
+Error ['An error 43 has occured!'] showed after 10 '1' symbols
+Error ['An error 33 has occured!'] showed after 151 '2' symbols
+Error ['An error 33 has occured!'] showed after 151 '3' symbols
+Error ['An error 33 has occured!'] showed after 151 '4' symbols
+Error ['An error 33 has occured!'] showed after 151 '5' symbols
+Error ['An error 63 has occured!'] showed after 21 '6' symbols
+Error ['An error 33 has occured!'] showed after 151 '7' symbols
+Error ['An error 33 has occured!'] showed after 151 '8' symbols
+Error ['An error 59 has occured!'] showed after 11 '9' symbols
